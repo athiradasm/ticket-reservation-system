@@ -33,3 +33,20 @@ The implementation stack has not yet been selected. Choose the language, framewo
 ## Repository workflow
 
 Use GitHub Issues to track modules and bugs. Commit small changes with clear messages, and update the progress log with the work actually completed in each lab session.
+
+
+## Aim
+To design and develop a Ticket Reservation System that enables users to find available tickets, make reservations, and manage their bookings through a simple and reliable interface.
+
+## Objectives
+- Provide a user registration and sign-in facility.
+- Allow users to search tickets by relevant details such as route/event and date.
+- Display available tickets, seats, schedules, and prices.
+- Allow users to select tickets and review the booking before confirmation.
+- Generate a booking reference and display confirmation.
+- Allow users to view and, where permitted, cancel their reservations.
+- Maintain accurate booking and availability information.
+- Test the system for valid input, invalid input, and booking conflicts.
+
+## Expected outcome
+A working prototype of the ticket reservation workflow, supported by a storyboard, laboratory progress record, and documented issues. The specific ticket category and implementation technology must be confirmed against the laboratory requirements.
