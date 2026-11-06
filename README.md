@@ -50,3 +50,10 @@ To design and develop a Ticket Reservation System that enables users to find ava
 
 ## Expected outcome
 A working prototype of the ticket reservation workflow, supported by a storyboard, laboratory progress record, and documented issues. The specific ticket category and implementation technology must be confirmed against the laboratory requirements.
+
+
+## Project documents
+- [Six-screen storyboard](STORYBOARD.md)
+- [Laboratory progress tracker](PROGRESS.md)
+- [Problems faced and solutions](PROBLEMS.md)
+- [Test cases and test execution tracker](TEST_CASES.md)
