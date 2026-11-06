@@ -1,0 +1,35 @@
+# Ticket Reservation System
+
+A laboratory project proposal for a web-based ticket reservation system. This repository records the project storyboard, planned development progress, and problems encountered during laboratory sessions.
+
+## Project objective
+
+To design and develop a system that allows users to register or sign in, search available trips or events, choose tickets or seats, complete a booking, and view or cancel reservations.
+
+## Main modules
+
+1. User registration and login
+2. Search and availability
+3. Ticket and seat selection
+4. Booking and payment workflow (payment is a planned integration; do not enter real payment details in a demo)
+5. Booking confirmation and reservation history
+6. Booking cancellation
+
+## Documentation
+
+- [Storyboard](docs/storyboard.md)
+- [Laboratory progress log](docs/progress.md)
+- [Problems and solutions](docs/problems-and-solutions.md)
+- [Development plan](docs/development-plan.md)
+
+## Current status
+
+This repository currently contains the project plan and documentation. Update the progress log after each actual laboratory session. Do not mark a feature complete until it has been implemented and tested.
+
+## Suggested technology stack
+
+The implementation stack has not yet been selected. Choose the language, framework, database, and payment approach based on the laboratory requirements before implementation.
+
+## Repository workflow
+
+Use GitHub Issues to track modules and bugs. Commit small changes with clear messages, and update the progress log with the work actually completed in each lab session.
